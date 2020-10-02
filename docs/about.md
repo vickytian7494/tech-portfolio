@@ -19,11 +19,14 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Credit Data Business Analyst at Southern Management Corporation
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- 2019 Dean's Excellence Award
+- 2018 Mary Alice Nehold Student Enrichment Scholarship
+- 2016 Student Employee Award
+- 2014-2017 Dean’s List
 
 ## Social Media
 
